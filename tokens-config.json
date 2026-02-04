@@ -1,0 +1,92 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2024-01-01T00:00:00Z",
+  "tokenIcons": {
+    "11155111": {
+      "0xcfc257d3a4bd23c8a7fef04fe5f05f5cbd6db989": {
+        "iconUrl": "/usdt-icon.svg",
+        "name": "Test USDC",
+        "symbol": "TUSDC"
+      }
+    },
+    "84532": {
+      "0xac00f90ed73b8a3d8ea4dd3ff9a22d5156a7d60d": {
+        "iconUrl": "/usdt-icon.svg",
+        "name": "Test USDC",
+        "symbol": "TUSDC"
+      },
+      "0x4200000000000000000000000000000000000006": {
+        "iconUrl": "/eth-icon.svg",
+        "name": "Ethereum",
+        "symbol": "ETH"
+      },
+      "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "USD Coin",
+        "symbol": "USDC"
+      },
+      "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb": {
+        "iconUrl": "/usdt-icon.svg",
+        "name": "Tether USD",
+        "symbol": "USDT"
+      }
+    },
+    "323432": {
+      "0x0601ef21219d306faf46dd16a17c947cea324fbd": {
+        "iconUrl": "/usdt-icon.svg",
+        "name": "Test USDT",
+        "symbol": "TUSDT"
+      },
+      "0x4200000000000000000000000000000000000006": {
+        "iconUrl": "/eth-icon.svg",
+        "name": "Ethereum",
+        "symbol": "ETH"
+      }
+    },
+    "42161": {
+      "0x0601ef21219d306faf46dd16a17c947cea324fbd": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Test USDC",
+        "symbol": "TUSDC"
+      },
+      "0x82b9ceb1962a9d2e5c3ae0b5c77daa3cd20227d9": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Private TUSDC",
+        "symbol": "pTUSDC"
+      },
+      "0x894341be568eae3697408c420f1d0acfce6e55f9": {
+        "iconUrl": "/fedz_fusd.png",
+        "name": "FEDZ FUSD",
+        "symbol": "FUSD"
+      },
+      "0xd046ef3ffd7dcfbac4e7914c15a7cd4b9eb530e8": {
+        "iconUrl": "/fedz_filz.png",
+        "name": "FEDZ FILS",
+        "symbol": "FILS"
+      }
+    },
+    "50505070": {
+      "0xd12b0ccfa15b5c7275f4fbe9ac3806c6ef244f05": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Test USDC",
+        "symbol": "TUSDC"
+      },
+      "0x4a880075de1a3308466277a13509c35c932a7f0a": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Private TUSDC",
+        "symbol": "pTUSDC"
+      },
+      "0x894341be568eae3697408c420f1d0acfce6e55f9": {
+        "iconUrl": "/fedz_fusd.png",
+        "name": "FEDZ FUSD",
+        "symbol": "FUSD"
+      },
+      "0xd046ef3ffd7dcfbac4e7914c15a7cd4b9eb530e8": {
+        "iconUrl": "/fedz_filz.png",
+        "name": "FEDZ FILS",
+        "symbol": "FILS"
+      }
+    }
+  },
+  "defaultIcon": "/default-token-icon.svg"
+}
