@@ -2,6 +2,13 @@
   "version": "1.0.0",
   "lastUpdated": "2024-01-01T00:00:00Z",
   "tokenIcons": {
+    "137": {
+      "0x0601ef21219d306faf46dd16a17c947cea324fbd": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Test USDC",
+        "symbol": "TUSDC"
+      }
+    },
     "11155111": {
       "0xcfc257d3a4bd23c8a7fef04fe5f05f5cbd6db989": {
         "iconUrl": "/usdt-icon.svg",
