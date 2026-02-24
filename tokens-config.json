@@ -2,6 +2,13 @@
   "version": "1.0.0",
   "lastUpdated": "2024-01-01T00:00:00Z",
   "tokenIcons": {
+    "1": {
+      "0x282340315eEbd60EeB49afa09b46b4CD81989E44": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Test USDC",
+        "symbol": "TUSDC"
+      }
+    },
     "137": {
       "0x0601ef21219d306faf46dd16a17c947cea324fbd": {
         "iconUrl": "/usdc-icon.svg",
@@ -70,6 +77,11 @@
         "iconUrl": "/fedz_filz.png",
         "name": "FEDZ FILS",
         "symbol": "FILS"
+      },
+      "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9": {
+        "iconUrl": "/usdt-icon.svg",
+        "name": "Tether USD",
+        "symbol": "USDT"
       }
     },
     "50505070": {
@@ -92,11 +104,6 @@
         "iconUrl": "/fedz_filz.png",
         "name": "FEDZ FILS",
         "symbol": "FILS"
-      },
-      "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9": {
-        "iconUrl": "/usdt-icon.svg",
-        "name": "USDT",
-        "symbol": "USDT"
       }
     }
   },
