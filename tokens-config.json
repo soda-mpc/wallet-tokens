@@ -28,19 +28,6 @@
         "website": "https://sodalabs.net"
       }
     },
-    "42161": {
-      "0x8b31770e8b227901c5ee0a39b8ab4f5f0e790265": {
-        "symbol": "TUSDC",
-        "name": "Test USDC",
-        "category": "stablecoin",
-        "decimals": 18,
-        "iconUrl": "https://cryptologos.cc/logos/usd-coin-usdc-logo.svg",
-        "description": "Test USDC stablecoin for Arbitrum mainnet",
-        "mintable": true,
-        "coingeckoId": null,
-        "website": "https://sodalabs.net"
-      }
-    },
     "11155111": {
       "0x78159eb4330f2b529499d6c5402ec2f906c3fe8b": {
         "symbol": "TUSDC",
@@ -89,10 +76,16 @@
       }
     },
     "42161": {
-      "0x0601ef21219d306faf46dd16a17c947cea324fbd": {
-        "iconUrl": "/usdc-icon.svg",
+      "0x8b31770e8b227901c5ee0a39b8ab4f5f0e790265": {
+        "symbol": "TUSDC",
         "name": "Test USDC",
-        "symbol": "TUSDC"
+        "category": "stablecoin",
+        "decimals": 18,
+        "iconUrl": "https://cryptologos.cc/logos/usd-coin-usdc-logo.svg",
+        "description": "Test USDC stablecoin for Arbitrum mainnet",
+        "mintable": true,
+        "coingeckoId": null,
+        "website": "https://sodalabs.net"
       },
       "0x82b9ceb1962a9d2e5c3ae0b5c77daa3cd20227d9": {
         "iconUrl": "/usdc-icon.svg",
