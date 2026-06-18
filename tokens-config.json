@@ -3,24 +3,55 @@
   "lastUpdated": "2024-01-01T00:00:00Z",
   "tokenIcons": {
     "1": {
-      "0x282340315eEbd60EeB49afa09b46b4CD81989E44": {
-        "iconUrl": "/usdc-icon.svg",
+      "0x48488bf61dc34f848546c698b10d5954334db70e": {
+        "symbol": "TUSDC",
         "name": "Test USDC",
-        "symbol": "TUSDC"
+        "category": "stablecoin",
+        "decimals": 18,
+        "iconUrl": "https://cryptologos.cc/logos/usd-coin-usdc-logo.svg",
+        "description": "Test USDC stablecoin for Ethereum mainnet",
+        "mintable": true,
+        "coingeckoId": null,
+        "website": "https://sodalabs.net"
       }
     },
     "137": {
-      "0x0601ef21219d306faf46dd16a17c947cea324fbd": {
-        "iconUrl": "/usdc-icon.svg",
+      "0x48488bf61dc34f848546c698b10d5954334db70e": {
+        "symbol": "TUSDC",
         "name": "Test USDC",
-        "symbol": "TUSDC"
+        "category": "stablecoin",
+        "decimals": 18,
+        "iconUrl": "https://cryptologos.cc/logos/usd-coin-usdc-logo.svg",
+        "description": "Test USDC stablecoin for Polygon mainnet",
+        "mintable": true,
+        "coingeckoId": null,
+        "website": "https://sodalabs.net"
+      }
+    },
+    "42161": {
+      "0x8b31770e8b227901c5ee0a39b8ab4f5f0e790265": {
+        "symbol": "TUSDC",
+        "name": "Test USDC",
+        "category": "stablecoin",
+        "decimals": 18,
+        "iconUrl": "https://cryptologos.cc/logos/usd-coin-usdc-logo.svg",
+        "description": "Test USDC stablecoin for Arbitrum mainnet",
+        "mintable": true,
+        "coingeckoId": null,
+        "website": "https://sodalabs.net"
       }
     },
     "11155111": {
-      "0xefc63a30d67ebe549587997de9f48c050255f80d": {
-        "iconUrl": "/usdc-icon.svg",
+      "0x78159eb4330f2b529499d6c5402ec2f906c3fe8b": {
+        "symbol": "TUSDC",
         "name": "Test USDC",
-        "symbol": "TUSDC"
+        "category": "stablecoin",
+        "decimals": 18,
+        "iconUrl": "https://cryptologos.cc/logos/usd-coin-usdc-logo.svg",
+        "description": "Test USDC stablecoin for Sepolia testnet",
+        "mintable": true,
+        "coingeckoId": null,
+        "website": "https://sodalabs.net"
       }
     },
     "84532": {
