@@ -13,6 +13,26 @@
         "mintable": true,
         "coingeckoId": null,
         "website": "https://sodalabs.net"
+      },
+      "0x282340315eEbd60EeB49afa09b46b4CD81989E44": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Test USDC",
+        "symbol": "TUSDC"
+      },
+      "0x7bca72959d58a9632929d69e6cebeb07d70d7049": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Private TUSDC",
+        "symbol": "pTUSDC"
+      },
+      "0xe6b4befe76d6743dd6028569a5ced4facd76cd07": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Test USDC",
+        "symbol": "TUSDC"
+      },
+      "0xc225bf1b65df66ab03b4017ad9affb5370402d17": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Private TUSDC",
+        "symbol": "pTUSDC"
       }
     },
     "137": {
@@ -26,6 +46,26 @@
         "mintable": true,
         "coingeckoId": null,
         "website": "https://sodalabs.net"
+      },
+      "0x0601ef21219d306faf46dd16a17c947cea324fbd": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Test USDC",
+        "symbol": "TUSDC"
+      },
+      "0x7bca72959d58a9632929d69e6cebeb07d70d7049": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Private TUSDC",
+        "symbol": "pTUSDC"
+      },
+      "0xee6cc4e170d26a88b6deebd2ea3139aafdea24eb": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Test USDC",
+        "symbol": "TUSDC"
+      },
+      "0xf10a1a7102bc1ff28a1b58121cf87e72c1ce4238": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Private TUSDC",
+        "symbol": "pTUSDC"
       }
     },
     "11155111": {
@@ -39,6 +79,46 @@
         "mintable": true,
         "coingeckoId": null,
         "website": "https://sodalabs.net"
+      },
+      "0xcfc257d3a4bd23c8a7fef04fe5f05f5cbd6db989": {
+        "iconUrl": "/usdt-icon.svg",
+        "name": "Test USDC",
+        "symbol": "TUSDC"
+      },
+      "0xefc63a30d67ebe549587997de9f48c050255f80d": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Test USDC",
+        "symbol": "TUSDC"
+      },
+      "0x2c480c45aaca3e6c7523b85280a3c46f74113427": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Private TUSDC",
+        "symbol": "pTUSDC"
+      },
+      "0x828231c33515880996ae0b19fd4016c094606b4e": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Private TUSDC",
+        "symbol": "pTUSDC"
+      },
+      "0x2e4b554a7fe6e2da0841dc451ebd0eac41e1e565": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Test USDC",
+        "symbol": "TUSDC"
+      },
+      "0x557a00b02238a8aa4c697e55669b2b1cd90996ce": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Private TUSDC",
+        "symbol": "pTUSDC"
+      },
+      "0x3e1e997869d24221726e659d6d30f21aecc061aa": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Test USDC",
+        "symbol": "TUSDC"
+      },
+      "0xdcaf055b22b31614d3a59cb4da2661be0eb2cc04": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Private TUSDC",
+        "symbol": "pTUSDC"
       }
     },
     "84532": {
@@ -106,6 +186,48 @@
         "iconUrl": "/usdt-icon.svg",
         "name": "Tether USD",
         "symbol": "USDT"
+      },
+      "0x0601ef21219d306faf46dd16a17c947cea324fbd": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Test USDC",
+        "symbol": "TUSDC"
+      },
+      "0xf50c1df10272bf6db3dc1dd9306bea8d6256fe44": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Private TUSDC",
+        "symbol": "pTUSDC"
+      },
+      "0xebf5a23a5517602e1c5023f166b22bb68887721f": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Test USDC",
+        "symbol": "TUSDC"
+      },
+      "0xe8244c51a871c760b3389d1137ad057a648c50e3": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Private TUSDC",
+        "symbol": "pTUSDC"
+      }
+    },
+    "421614": {
+      "0x15df3e9761cec63234c53b8aa576479219d6f789": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Test USDC",
+        "symbol": "TUSDC"
+      },
+      "0x260de54f6fb225eacfbd83b871a5c5ca3c049610": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Private TUSDC",
+        "symbol": "pTUSDC"
+      },
+      "0xd61e20e4031da236f9dc3813efacf7308bb62cbe": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Test USDC",
+        "symbol": "TUSDC"
+      },
+      "0x237e573994b16b0822eb8f11eb72dadb5ed7a543": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Private TUSDC",
+        "symbol": "pTUSDC"
       }
     },
     "50505070": {
