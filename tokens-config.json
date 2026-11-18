@@ -119,6 +119,78 @@
         "iconUrl": "/usdc-icon.svg",
         "name": "Private TUSDC",
         "symbol": "pTUSDC"
+      },
+      "0xddc5c96c1c2dd3cb8d9aeba01fd2213c1331ae70": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "USD Coin (Mock)",
+        "symbol": "USDC",
+        "coingeckoId": "usd-coin"
+      },
+      "0x0b0ca5e6845fda8a7757335b89dec5bd00f4f18d": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Private USD Coin (Mock)",
+        "symbol": "pUSDC",
+        "default": true
+      },
+      "0x3ad87ae02379106bed6ce13b8c268bf9bf2b402d": {
+        "iconUrl": "/usdt-icon.svg",
+        "name": "Tether USD (Mock)",
+        "symbol": "USDT",
+        "coingeckoId": "tether"
+      },
+      "0xdfad91867616aeaf302091f4a22b5a0fed49bc2a": {
+        "iconUrl": "/usdt-icon.svg",
+        "name": "Private Tether USD (Mock)",
+        "symbol": "pUSDT",
+        "default": true
+      },
+      "0xdd284152d9840541c8061867f0f7d48cbabdf0eb": {
+        "iconUrl": "/weth-icon.svg",
+        "name": "Wrapped Ether (Mock)",
+        "symbol": "WETH",
+        "coingeckoId": "weth"
+      },
+      "0xd60c7f842d189802bd31bebba2a6e4b75de9a26c": {
+        "iconUrl": "/weth-icon.svg",
+        "name": "Private Wrapped Ether (Mock)",
+        "symbol": "pWETH",
+        "default": true
+      },
+      "0x761708529c23ad3327052ea0be7ab29385d661df": {
+        "iconUrl": "/wbtc-icon.svg",
+        "name": "Wrapped BTC (Mock)",
+        "symbol": "WBTC",
+        "coingeckoId": "wrapped-bitcoin"
+      },
+      "0x508f35158889fbd2246968e2a44153c02794e6cf": {
+        "iconUrl": "/wbtc-icon.svg",
+        "name": "Private Wrapped BTC (Mock)",
+        "symbol": "pWBTC",
+        "default": true
+      },
+      "0x0751054d2e374be5ed02a37e6fa65d47c7be3d27": {
+        "iconUrl": "/tgbp-icon.svg",
+        "name": "Tokenised GBP (Mock)",
+        "symbol": "tGBP",
+        "coingeckoId": "tokenised-gbp"
+      },
+      "0xe39542069b7e31c8a70c15a5fa4bc063303bbba3": {
+        "iconUrl": "/tgbp-icon.svg",
+        "name": "Private Tokenised GBP (Mock)",
+        "symbol": "ptGBP",
+        "default": true
+      },
+      "0x3c5facb43b7c2dc0ec817831ccfd2bd40c0c905d": {
+        "iconUrl": "/logo_soda.png",
+        "name": "Soda (Mock)",
+        "symbol": "SODA",
+        "usdPrice": 1
+      },
+      "0x42da9ae8c35e6e4b3ecd54799266b7050742e245": {
+        "iconUrl": "/logo_soda.png",
+        "name": "Private Soda (Mock)",
+        "symbol": "pSODA",
+        "default": true
       }
     },
     "84532": {
