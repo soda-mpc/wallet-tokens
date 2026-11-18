@@ -8,3 +8,13 @@ The data is published this way so wallets, explorers and aggregators can
 redistribute it without attribution obligations. Token names, symbols and logos
 referenced here may be trademarks of their respective owners; CC0 covers this
 compilation, not those marks.
+
+## Fields
+
+Entries live under `tokenIcons.<chainId>.<token address>`:
+
+- `iconUrl`: icon path or URL.
+- `name`, `symbol`: display overrides; the on-chain values are used when absent.
+- `default`: set `true` on a private (pERC20) token to show it on the wallet dashboard.
+  Mainnet and testnet wallets read this same file, and each checks only its own chains:
+  once any of its chains has a `default` token, that wallet shows only `default` tokens.
