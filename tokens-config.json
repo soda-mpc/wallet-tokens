@@ -297,7 +297,8 @@
       "0x53be0b1e3a37fc513fe44f59c34fb19273b63409": {
         "iconUrl": "/logo_soda.png",
         "name": "Soda (Mock)",
-        "symbol": "SODA"
+        "symbol": "SODA",
+        "usdPrice": 1
       },
       "0xeb8f696801383d8bd43048dd4a8b342273659193": {
         "iconUrl": "/logo_soda.png",
