@@ -33,6 +33,54 @@
         "iconUrl": "/usdc-icon.svg",
         "name": "Private TUSDC",
         "symbol": "pTUSDC"
+      },
+      "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "coingeckoId": "usd-coin"
+      },
+      "0xb02dea890f380c220b2a31215d2a2a7697962ed5": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Private USD Coin",
+        "symbol": "pUSDC",
+        "default": true
+      },
+      "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
+        "iconUrl": "/weth-icon.svg",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "coingeckoId": "weth"
+      },
+      "0xc9cdc42bf74fc10969f3408b9668e34ccfe88c5e": {
+        "iconUrl": "/weth-icon.svg",
+        "name": "Private Wrapped Ether",
+        "symbol": "pWETH",
+        "default": true
+      },
+      "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": {
+        "iconUrl": "/wbtc-icon.svg",
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "coingeckoId": "wrapped-bitcoin"
+      },
+      "0x62d387bf97f67f59c6a24dac8812da8b9e67a1e9": {
+        "iconUrl": "/wbtc-icon.svg",
+        "name": "Private Wrapped BTC",
+        "symbol": "pWBTC",
+        "default": true
+      },
+      "0x27f6c8289550fce67f6b50bed1f519966afe5287": {
+        "iconUrl": "/tgbp-icon.svg",
+        "name": "Tokenised GBP",
+        "symbol": "tGBP",
+        "coingeckoId": "tokenised-gbp"
+      },
+      "0x2d5d2e6d86374ef1ef17d3c41def0501f4453e4f": {
+        "iconUrl": "/tgbp-icon.svg",
+        "name": "Private Tokenised GBP",
+        "symbol": "ptGBP",
+        "default": true
       }
     },
     "137": {
