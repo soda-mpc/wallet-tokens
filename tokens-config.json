@@ -257,12 +257,12 @@
         "default": true
       },
       "0x4174790d8e6d09b72709165d411ee930cb415d5e": {
-        "iconUrl": "/eth-icon.svg",
+        "iconUrl": "/weth-icon.svg",
         "name": "Wrapped Ether (Mock)",
         "symbol": "WETH"
       },
       "0xa99219e6c839b1ba86d091666729a7caabb8cb9b": {
-        "iconUrl": "/eth-icon.svg",
+        "iconUrl": "/weth-icon.svg",
         "name": "Private Wrapped Ether (Mock)",
         "symbol": "pWETH",
         "default": true
