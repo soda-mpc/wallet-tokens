@@ -254,11 +254,6 @@
         "name": "FEDZ FILS",
         "symbol": "FILS"
       },
-      "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9": {
-        "iconUrl": "/usdt-icon.svg",
-        "name": "Tether USD",
-        "symbol": "USDT"
-      },
       "0x0601ef21219d306faf46dd16a17c947cea324fbd": {
         "iconUrl": "/usdc-icon.svg",
         "name": "Test USDC",
@@ -278,6 +273,66 @@
         "iconUrl": "/usdc-icon.svg",
         "name": "Private TUSDC",
         "symbol": "pTUSDC"
+      },
+      "0xaf88d065e77c8cc2239327c5edb3a432268e5831": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "coingeckoId": "usd-coin"
+      },
+      "0x1a320bafc91e2af7d0758681ca606ffc7840dc0a": {
+        "iconUrl": "/usdc-icon.svg",
+        "name": "Private USD Coin",
+        "symbol": "pUSDC",
+        "default": true
+      },
+      "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9": {
+        "iconUrl": "/usdt-icon.svg",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "coingeckoId": "tether"
+      },
+      "0xffeb01af52a5ee017ffc4dfe014f97ee19650b01": {
+        "iconUrl": "/usdt-icon.svg",
+        "name": "Private Tether USD",
+        "symbol": "pUSDT",
+        "default": true
+      },
+      "0x82af49447d8a07e3bd95bd0d56f35241523fbab1": {
+        "iconUrl": "/weth-icon.svg",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "coingeckoId": "weth"
+      },
+      "0x4a35aa3d1ce33240d691a643dbe14cdf70c90023": {
+        "iconUrl": "/weth-icon.svg",
+        "name": "Private Wrapped Ether",
+        "symbol": "pWETH",
+        "default": true
+      },
+      "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f": {
+        "iconUrl": "/wbtc-icon.svg",
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "coingeckoId": "wrapped-bitcoin"
+      },
+      "0x26cd4a276ac64dfee532f930348924e3a5e3604c": {
+        "iconUrl": "/wbtc-icon.svg",
+        "name": "Private Wrapped BTC",
+        "symbol": "pWBTC",
+        "default": true
+      },
+      "0x27f6c8289550fce67f6b50bed1f519966afe5287": {
+        "iconUrl": "/tgbp-icon.svg",
+        "name": "Tokenised GBP",
+        "symbol": "tGBP",
+        "coingeckoId": "tokenised-gbp"
+      },
+      "0x39c9979c8c117a483fa1a7c3fdc066b13e62aef9": {
+        "iconUrl": "/tgbp-icon.svg",
+        "name": "Private Tokenised GBP",
+        "symbol": "ptGBP",
+        "default": true
       }
     },
     "421614": {
