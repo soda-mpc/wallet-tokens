@@ -15,6 +15,9 @@ Entries live under `tokenIcons.<chainId>.<token address>`:
 
 - `iconUrl`: icon path or URL.
 - `name`, `symbol`: display overrides; the on-chain values are used when absent.
+- `coingeckoId`: CoinGecko coin id used for USD prices (e.g. `usd-coin`), on the underlying or the private entry.
+  Without one, only USD stablecoins are valued (at $1).
+- `usdPrice`: fixed USD price for a token with no market (e.g. a testnet mock); a `coingeckoId` price wins when present.
 - `default`: set `true` on a private (pERC20) token to show it on the wallet dashboard.
   Mainnet and testnet wallets read this same file, and each checks only its own chains:
   once any of its chains has a `default` token, that wallet shows only `default` tokens.
